@@ -1,0 +1,1 @@
+# Repositório contendo as atividades do curso de JavaScript disponibilizado pela plataforma b7Web
