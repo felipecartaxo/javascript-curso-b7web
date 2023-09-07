@@ -8,11 +8,9 @@ const clicked = () => {
     
     /* ul.after('<button>Button!</button>'); Não funciona para tags HTML, apenas para adicionar texto */
 
-    /* Para adicionar um elemento HTML antes ou depois de um determinado elemento, faça da seguinte forma */
-
     const newButton = document.createElement('button'); /* Cria uma variável contendo o elemento HTML que será adicionado. Neste caso, será um <button></button> */
     newButton.innerHTML = 'new button'; /* Altera o texto dentro do elemento HTML */
-    ul.before(newButton); /* Adiciona o novo elemento HTML antes do elemento HTML 'ul' */
+    ul.before(newButton); /* Adiciona o novo elemento HTML antes da lista cujo id é '#test' */
     /* ul.after(newButton); Adiciona 'newButton' após 'ul' */
 
     const newUl = document.createElement('ul'); /* Cria o elemento 'ul', ainda na memória, e atribui-o à variável 'newUl */
