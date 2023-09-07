@@ -12,11 +12,3 @@
 8. DOM
 9. Manipulação, arrow, ajax etc
 10. Requisições e assíncronismo
-
-### Após os 10 módulos mencionados acima, o curso possui 5 projetos, que são:
-
-1. Projeto: Compra de pizzas
-2. Projeto: Urna eletrônica
-3. Projeto: Slideshow
-4. Projeto: Validador de formulários
-5. Desafio: 7 Projetos em 7 dias
